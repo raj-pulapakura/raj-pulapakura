@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @dialto1. My real name is Raj Pulapakura. I am a programming enthusiast from Australia
-- 👀 I’m interested in programming, table tennis, running and jump-rope workouts
-- 🌱 I’m currently learning advanced data structures and algorithms with javascript
-- 💞️ I’m looking to collaborate on a sorting algorithm visualiser
+- 👋 Hi, I’m @chai-commits. My real name is Raj Pulapakura. I am a coder from Australia
+- 👀 I’m interested in programming, music and table tennis
 - 📫 How to reach me through email: raj.pulapakura@gmail.com
