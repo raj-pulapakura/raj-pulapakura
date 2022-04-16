@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @chai-commits. My real name is Raj Pulapakura. I am a coder from Australia
-- 👀 I’m interested in programming, music and table tennis
+- 👋 Hi, I’m @chai-commits. My real name is Raj Pulapakura. I'm a coder from Australia.
+- 💪 I enjoy working with React, Flutter and problem-solving in general.
+- 👀 I’m interested in programming, music and table tennis.
 - 📫 How to reach me through email: raj.pulapakura@gmail.com
