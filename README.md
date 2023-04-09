@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @raj-pulapakura, but you can call me Raj. I'm a coder from Australia.
 - 💪 I used to be a full-stack developer using frameworks such as React and Flutter, but now I am focusing on Artificial Intellgence, specifically Machine Learning and Deep Learning!
 - 👀 I’m interested in programming 💻, chess ♟️ and basketball 🏀.
-- 📫 How to reach me through email: raj.pulapakura@gmail.com
+- 📫 Email: raj.pulapakura@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-pulapakura-9b2348234/
