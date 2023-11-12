@@ -1,7 +1,6 @@
-- 👋 Raj, Aussie freelancer
+- 👋 Raj, Aspiring Machine Learning Engineer, Lifelong creator
 - 💪 AI/Machine Learning/Deep Learning/Computer Vision engineer (also have full stack skills)
 - 👀 love 💻, dabble in♟️, sweat it out with 🏀.
 - 📫 contact me: raj.pulapakura@gmail.com
-- ⚒️ freelance enquiries: https://www.fiverr.com/rajpulapakura?up_rollout=true
 - 💼 profile: https://www.linkedin.com/in/raj-pulapakura-9b2348234/
 - 📃 blog: https://rablog.vercel.app/
