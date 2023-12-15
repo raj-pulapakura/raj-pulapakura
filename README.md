@@ -1,6 +1,10 @@
-## 👋 Hi, I'm Raj.
+## 👋 Hi, I'm Raj
 
-I'm a Machine Learning Engineer, Deep Learning Engineer and Full Stack Developer.
+- ✌️ I'm a Machine Learning Engineer, Deep Learning Engineer and Full Stack Developer.
+- 📍 Based in Melbourne, Australia
+- 👀 Currently open to roles: Machine Learning Engineer, Data Scientist, Software Engineer
+- 📨 Drop me an email: `raj.pulapakura@gmail.com`
+- 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) for my info
 
 ## Skills
 
@@ -44,6 +48,24 @@ I'm a Machine Learning Engineer, Deep Learning Engineer and Full Stack Developer
   
 ## Projects
 
+<table border="0">
+ <tr>
+    <td>Dino Game controlled by Gesture Detection</td>
+    <td>Comment Toxicity Checker</td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/8939495e-86cf-4e88-b648-01fbad891a27" /></td>
+    <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/5913fe56-4c8e-4e69-8b44-ffe6281f4353" /></td>
+ </tr>
+ <tr>
+    <td>Customer Churn Prediction</td>
+    <td>Houses Prices Prediction</td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/b9da2432-cea5-4a55-ad0f-dca974ada9bd" /></td>
+    <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/33c57bf8-5d36-4e0b-a121-79617b22bd51" /></td>
+ </tr>
+</table>
 
 ## Important Certifications
 
