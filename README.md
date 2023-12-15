@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Raj
+# 👋 Hi, I'm Raj
 
 - ✌️ I'm a Machine Learning Engineer, Deep Learning Engineer and Full Stack Developer.
 - 📍 Based in Melbourne, Australia
