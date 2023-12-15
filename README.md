@@ -5,6 +5,7 @@
 - 👀 Currently open to roles: Machine Learning Engineer, Data Scientist, Software Engineer
 - 📨 Drop me an email: `raj.pulapakura@gmail.com`
 - 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) for my info
+- 🏀 Love AI, business, basketball and chess
 
 ## Skills
 
