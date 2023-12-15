@@ -50,22 +50,22 @@
 
 <table border="0">
  <tr>
-    <td colspan="2">Dino Game controlled by Gesture Detection</td>
+    <td colspan="2" align="center">Dino Game controlled by Gesture Detection</td>
  </tr>
  <tr>
-    <td colspan="2"><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/8939495e-86cf-4e88-b648-01fbad891a27" /></td>
+    <td colspan="2" align="center"><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/8939495e-86cf-4e88-b648-01fbad891a27" /></td>
  </tr>
    <tr>
-    <td>Comment Toxicity Checker</td>
-    <td>Image Search Engine</td>
+    <td align="center">Comment Toxicity Checker</td>
+    <td align="center">Image Search Engine</td>
  </tr>
  <tr>
     <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/5913fe56-4c8e-4e69-8b44-ffe6281f4353" /></td>
     <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/d9fa78ec-b307-4522-876d-d9062c65f772" /></td>
  </tr>
  <tr>
-    <td>Customer Churn Prediction</td>
-    <td>Houses Prices Prediction</td>
+    <td align="center">Customer Churn Prediction</td>
+    <td align="center">Houses Prices Prediction</td>
  </tr>
  <tr>
     <td><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/b9da2432-cea5-4a55-ad0f-dca974ada9bd" /></td>
