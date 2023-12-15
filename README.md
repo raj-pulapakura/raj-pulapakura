@@ -28,7 +28,7 @@
   <tr>
     <td>Frontend: ReactJS, NextJS, Vercel</td>
     <td>Backend: NodeJS, ExpressJS </td>
-    <td>App: Flutter</td>
+    <td>Apps: Flutter</td>
     <td>DAAS: Firebase</td>
   </tr>
 </table>
