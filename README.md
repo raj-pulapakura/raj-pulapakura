@@ -4,7 +4,7 @@
 - 📍 Based in Melbourne, Australia
 - 👀 Currently open to roles: Machine Learning Engineer, Data Scientist, Full Stack Developer
 - 📨 Drop me an email: `raj.pulapakura@gmail.com`
-- 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) for my info
+- 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) and [Portfolio](https://rajp.vercel.app/)
 
 ## Skills
 
