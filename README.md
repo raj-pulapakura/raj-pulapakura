@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Raj
 
-- ✌️ I'm a Machine Learning Engineer, Deep Learning Engineer and Full Stack Developer.
+- ✌️ I'm a Machine Learning and Full Stack Engineer.
 - 📍 Based in Melbourne, Australia
-- 👀 Currently open to roles: Machine Learning Engineer, Data Scientist, Full Stack Developer
 - 📨 Drop me an email: `raj.pulapakura@gmail.com`
 - 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) and [Portfolio](https://rajp.vercel.app/)
 
