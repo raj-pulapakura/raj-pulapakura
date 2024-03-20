@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raj
 
 - ✌️ I'm a Machine Learning and Full Stack Engineer, based in Melbourne, Australia
-- 💪 I like building machine-learning-powered full-stack applications
+- 🏗️ I like building machine-learning-powered full-stack applications
 - 📽️ I have a [YouTube](https://www.youtube.com/@rajpulapakura9119) channel where I regularly post videos on Machine Learning, Full Stack Development and my experiences
 - 📝 I regularly write technical blogs on [Medium](https://medium.com/@raj.pulapakura) on AI, ML and FSD 
 - 📨 Contact me via email at `rajedwinpulapakura@gmail.com`
