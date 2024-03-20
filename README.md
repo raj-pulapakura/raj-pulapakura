@@ -1,22 +1,34 @@
 # 👋 Hi, I'm Raj
 
-- ✌️ I'm a Machine Learning and Full Stack Engineer.
-- 📍 Based in Melbourne, Australia
-- 📨 Drop me an email: `raj.pulapakura@gmail.com`
-- 👍 Check out my [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) and [Portfolio](https://rajp.vercel.app/)
+- ✌️ I'm a Machine Learning and Full Stack Engineer, based in Melbourne, Australia
+- 📨 Contact: `rajedwinpulapakura@gmail.com`
+- 👍 Learn more about me: [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) | [Portfolio](https://www.rajpulapakura.com)
 
-## Skills
+## My Stats 🔥
+<div align="center">
+<!--   <div> -->
+    <img  src="https://github-readme-stats.vercel.app/api?username=raj-pulapakura&show_icons=true&theme=radical" />
+    <img style="margin:0px 50px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-pulapakura&layout=compact&theme=radical"/>
+<!--   </div> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-pulapakura&theme=radical" />
+</div>
+
+---
+
+
+## Technical Skills
 
 <table>
   <tr>
-    <h3>Machine Learning</h3>
+    <h3>Languages</h3>
   </tr>
   <tr>
-    <td>TensorFlow</td>
-    <td>PyTorch</td>
-    <td>Google Cloud Platform</td>
-    <td>OpenCV</td>
-    <td>SQL</td>
+    <td>JavaScript/TypeScript</td>
+    <td>HTML/CSS</td>
+    <td>Python</td>
+    <td>Dart</td>
+    <td>Bash</td>
+    <td>C++</td>
 </tr>
 </table>
 
@@ -25,24 +37,28 @@
     <h3>Full Stack Development</h3>
   </tr>
   <tr>
-    <td>Frontend: ReactJS, NextJS, Vercel</td>
-    <td>Backend: NodeJS, ExpressJS </td>
-    <td>Apps: Flutter</td>
-    <td>DAAS: Firebase</td>
+    <td>JavaScript/TypeScript</td>
+    <td>React.js</td>
+    <td>Next.js</td>
+    <td>Vercel</td>
+    <td>HTML/CSS</td>
+    <td>Tailwind</td>
+    <td>Material UI</td>
+    <td>Redux/Zustand</td>
+    <td>Node.js/REST APIs/FastAPI/Flask</td>
+    <td>Express.js</td>
+    <td>GraphQL/ApolloGraphQL</td>
+    <td>TypeORM</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <h3>Languages</h3>
+    <h3>Database</h3>
   </tr>
   <tr>
-    <td>Python</td>
-    <td>SQL</td>
-    <td>JavaScript, HTML, CSS</td>
-    <td>TypeScript</td>
-    <td>Dart</td>
-</tr>
+  
+  </tr>
 </table>
   
 ## Projects
