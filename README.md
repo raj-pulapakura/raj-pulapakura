@@ -94,8 +94,8 @@
     <td align="center">Dino Game controlled by Gesture Detection</td>
  </tr>
  <tr>
-    <td colspan="2" align="center"><img src="https://github.com/raj-pulapakura/ClarityScan/assets/87762282/e56b9135-0c65-42d7-910c-a7bc4ead6615" /></td>
-    <td colspan="2" align="center"><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/8939495e-86cf-4e88-b648-01fbad891a27" /></td>
+    <td align="center"><img src="https://github.com/raj-pulapakura/ClarityScan/assets/87762282/e56b9135-0c65-42d7-910c-a7bc4ead6615" /></td>
+    <td align="center"><img src="https://github.com/raj-pulapakura/raj-pulapakura/assets/87762282/8939495e-86cf-4e88-b648-01fbad891a27" /></td>
  </tr>
    <tr>
     <td align="center">Comment Toxicity Checker</td>
