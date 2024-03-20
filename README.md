@@ -34,13 +34,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
       <img src="https://redux.js.org/img/redux.svg" title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/pmndrs/zustand/raw/main/logo.svg" title="Zustand" alt="Zustand" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/restapi/restapi-original.svg" title="REST APIs" alt="REST APIs" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/graphql/graphql-spec/blob/main/logo/GraphQL%20Logo/GraphQL%20Logo.png" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="60" height="60"/>&nbsp;
-      <img src="https://www.apollographql.com/img/apollo-logo.svg" title="Apollo GraphQL" alt="Apollo GraphQL" width="60" height="60"/>&nbsp;
-      <img src="https://typeorm.io/image/logo.svg" title="TypeORM" alt="TypeORM" width="60" height="60"/>&nbsp;
     </td>
 </tr>
 
