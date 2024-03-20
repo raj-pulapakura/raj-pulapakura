@@ -18,7 +18,7 @@
 
 ## Technical Skills
 
-<div style="background-color: red;">Hello there</div>
+<div style="color:red;">Hello there</div>
 
 <table>
   <tr>
