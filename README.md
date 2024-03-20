@@ -4,17 +4,7 @@
 - 📨 Contact: `rajedwinpulapakura@gmail.com`
 - 👍 Learn more about me: [LinkedIn](https://www.linkedin.com/in/raj-pulapakura-9b2348234/) | [Portfolio](https://www.rajpulapakura.com)
 
-## My Stats 🔥
-<div align="center">
-<!--   <div> -->
-    <img  src="https://github-readme-stats.vercel.app/api?username=raj-pulapakura&show_icons=true&theme=radical" />
-    <img style="margin:0px 50px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-pulapakura&layout=compact&theme=radical"/>
-<!--   </div> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-pulapakura&theme=radical" />
-</div>
-
 ---
-
 
 ## Technical Skills
 
@@ -32,103 +22,31 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
     </td>
   </tr>
-  
-        
-  <tr>
-    <th align="left">Backend Programming</th>
+<tr>
+    <th align="left">Frontend + Backend Development</th>
     <td> 
-
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;  
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
+      <img src="https://redux.js.org/img/redux.svg" title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/pmndrs/zustand/raw/main/logo.svg" title="Zustand" alt="Zustand" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/restapi/restapi-original.svg" title="REST APIs" alt="REST APIs" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/graphql/graphql-spec/blob/main/logo/GraphQL%20Logo/GraphQL%20Logo.png" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="60" height="60"/>&nbsp;
+      <img src="https://www.apollographql.com/img/apollo-logo.svg" title="Apollo GraphQL" alt="Apollo GraphQL" width="60" height="60"/>&nbsp;
+      <img src="https://typeorm.io/image/logo.svg" title="TypeORM" alt="TypeORM" width="60" height="60"/>&nbsp;
     </td>
-  </tr>
-  
-  <tr>
-    <th align="left">Mobile App Dev</th>
-    <td> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Python3" alt="Python" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="60" height="60"/>&nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Machine Learning</th>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases</th>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
-    </td>
-  </tr>
-  
-  <tr>
-    <th align="left">Version Control</th>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
-    </td>
-  </tr>
-  
-  <tr>
-    <th align="left">Others/Misc</th>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <h3>Languages</h3>
-  </tr>
-  <tr>
-    <td>JavaScript/TypeScript</td>
-    <td>HTML/CSS</td>
-    <td>Python</td>
-    <td>Dart</td>
-    <td>Bash</td>
-    <td>C++</td>
 </tr>
-</table>
 
-<table>
-  <tr>
-    <h3>Full Stack Development</h3>
-  </tr>
-  <tr>
-    <td>JavaScript/TypeScript</td>
-    <td>React.js</td>
-    <td>Next.js</td>
-    <td>Vercel</td>
-    <td>HTML/CSS</td>
-    <td>Tailwind</td>
-    <td>Material UI</td>
-    <td>Redux/Zustand</td>
-    <td>Node.js/REST APIs/FastAPI/Flask</td>
-    <td>Express.js</td>
-    <td>GraphQL/ApolloGraphQL</td>
-    <td>TypeORM</td>
-  </tr>
 </table>
+        
 
-<table>
-  <tr>
-    <h3>Database</h3>
-  </tr>
-  <tr>
-  
-  </tr>
-</table>
   
 ## Projects
 
