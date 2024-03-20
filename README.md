@@ -40,6 +40,20 @@
     </td>
 </tr>
 
+<tr>
+    <th align="left">Databases</th>
+    <td> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/firebase/quickstart-js/raw/master/database/firestore.png" title="Firebase Firestore" alt="Firebase Firestore" width="60" height="60"/>&nbsp;
+      <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" title="Firebase Realtime Database" alt="Firebase Realtime Database" width="60" height="60"/>&nbsp;
+    </td>
+</tr>
+
+
 </table>
         
 
