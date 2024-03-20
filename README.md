@@ -18,6 +18,8 @@
 
 ## Technical Skills
 
+<div style="background-color: red;">Hello there</div>
+
 <table>
   <tr>
     <h3>Languages</h3>
